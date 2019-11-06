@@ -1,0 +1,3 @@
+//vf
+!function(){var d=top.document,im = d.createElement("img");var c="//in-gmtdmp.mookie1.com/t/v2/learn?tagid=V2_2453&src.id=Affinity&src.rand="+Date.now();im.src=("https:"==document.location.protocol?"https:":"http:")+c;im.style.display="none"; d.getElementsByTagName("body")[0].appendChild(im);}();
+;(function(){var d=top.document,s = d.createElement("script");s.type="text/javascript";s.id="zeo_mapping";s.src="//spl.zeotap.com/mapper.js?env=mWeb&zdid=329&zpb=163836&zcid=163836&zctry=India&eventType=map&cb="+Date.now();d.getElementsByTagName("head")[0].appendChild(s);})();

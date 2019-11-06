@@ -1,0 +1,1 @@
+{"error":true,"statusCode":422,"message":"The Parameter nid specified was not a valid partner id."}

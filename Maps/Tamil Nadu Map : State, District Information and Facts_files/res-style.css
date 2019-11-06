@@ -1,0 +1,798 @@
+.utility{width:1000px;height:75px;z-index:10000;float:left;margin:0 auto;background-color:#065d96;border-radius:5px;}
+.left-side{width:18px;float:left;}
+.right-side{width:17px;float:left;}
+.center{width:1000px;float:left;height:75px;}
+.heading{width:160px;float:left;margin:12px 0px 0px 0px;font-family:arial;text-align:center;}
+.heading b{color:white;font-size:20px;}
+.dotted{width:38px;float:left;}
+.form-start_ut{width:790px;height:75px;float:left;}
+.constituency-type{border-radius:0.6em;width:175px;background:url('https://www.mapsofindia.com/widgets/electionsutility/images/active-select.png') top left no-repeat;float:left;margin:22px 0px 0px 0px;overflow:hidden;border:none;outline:none;position:relative;height:33px;}
+.text0{color:white;font-family:arial, helvetica;width:40px;float:left;margin:30px 0px 0px 5px;font-size:12px;font-weight:bold;}
+.text1{color:white;font-family:arial, helvetica;width:45px;float:left;margin:30px 0px 0px 5px;font-size:12px;font-weight:bold;}
+.text3{color:white;font-family:arial, helvetica;width:85px;float:left;margin:30px 0px 0px 5px;font-size:12px;font-weight:bold;padding:0 !important;}
+.constituency-type select{width:175px;float:left;opacity:1;filter:alpha(opacity=90);height:35px;position:relative;line-height: 27px;}
+.selected-text{left:10px;position:absolute;top:8px;z-index:3;text-transform:capitalize;font-size:13px;}
+.district-type{border-radius:0.6em;width:175px;background:url('https://www.mapsofindia.com/widgets/electionsutility/images/active-select.png') top left no-repeat;float:left;margin:22px 0px 0px 0px;overflow:hidden;border:none;outline:none;position:relative;height:33px;}
+.district-type select{width:175px;float:left;opacity:1;filter:alpha(opacity=90);height:35px;position:relative;line-height: 27px;}
+.city-type{border-radius:0.6em;width:175px;background:url('https://www.mapsofindia.com/widgets/electionsutility/images/active-select.png') top left no-repeat;float:left;margin:22px 0px 0px 0px;overflow:hidden;border:none;outline:none;position:relative;height:33px;}
+.city-type select{width:175px;float:left;opacity:1;filter:alpha(opacity=90);height:35px;position:relative;text-transform:capitalize;line-height: 27px;}
+.submitelction{width:74px;float:left;margin:23px 0px 0px 5px;cursor:pointer;}
+.hide1,#div-gpt-ad-1407309518126-0,.scrstates,#aleosoftimage,.addthis_wrpper{display:none}
+.show1{display:block}
+.top_nav_menu,.botads, .mobileads, .mobmenu, #seaengine, .hads{display:none;}
+.stdhead{height:30px;background:#4C4C4C;text-align:left;color:#fff;font-weight:bold;padding-left:10px;}
+.sel{height:30px;width:250px;font-family:verdana;font-size:11px;color:#000000;}
+.sub{background:url(https://www.mapsofindia.com/std/blue-btn.png) top no-repeat;width:179px;height:50px;color:#fff;border:0;font-weight:bold;margin:10px auto;text-align:center;cursor:pointer;}
+.stdhead h1{font-size:16px;}
+.top_table{background:none !important;}
+.chart_divtp{width:100%;float:left;}
+.chart_one{width:50%;float:left;}
+#txtPin{height:20px;width:180px;}
+.mmt{float:left;margin:0 50px;}
+.wdjt{width:100%;float:left;margin-bottom:10px;}
+.flht{float:left;width:300px;}
+.tablelink ul{float:left;width:25%;}
+.tablelink{float:left;border-left:1px solid #E4E2E3;width:100%;margin-bottom:20px;}
+.tablelink li{border-right:1px solid #E4E2E3;width:95%;float:left;padding-left:5%;height:27px;overflow:hidden;}
+.content-panel1 h5{width:100%;float:left;text-align:center;}
+.innermain, .map{float:left;width:100%;}
+.leftmain{float:left;width:77%;margin:0 1%;text-align:left;line-height:20px;}
+.nomb{float:left;width:20%;}
+.slidebtn{display:none;}
+.search_container3{display:block;float:left;width:30%;font-size:10px;font-weight:700;text-decoration:none;text-align:left;font-family:Arial;}
+.srch input{margin-top:4px;float:left;}
+.lfads{margin:0 0 5px 0px;}
+.googlemap{float:left;}
+.fgt_links{float:left;border:1px solid #E4E2E3;width:100%;margin-bottom:20px;}
+.fgt_links ul{width:25%;float:left;padding:0;margin:0;}
+.fgt_links ul li{padding:0;margin:0;list-style:none;border:1px solid #E4E2E3;height:80px;}
+.fgt_links ul li a{color:#139EB0;}
+.looking-for{font-size:26px;}
+.search-table{width:80%!important;}
+.yltbl{margin-left:10px;}
+#directions{width:280px;height:550px;overflow:auto;font-size:12px !important;color:#065D96 !important;text-align:left !important;line-height:20px !important;direction:ltr;}
+.navigation a:hover, .navigation a:link, .navigation a:visited{clear:none;width:auto;display:inline-block;}
+.dis ul{width:50%;}
+.intrl_links ul li a:hover, visited{font-size:12px;font-family:arial;}
+.pc_maps_sec{width:100%;float:left;}
+.pc_left_map{width:50%;float:left;}
+.pc_left_map .gray-tab{width:100%;float:left;}
+#div-gpt-ad-1385033790590-1{margin-bottom:10px;}
+.railways_tm{float:left;width:610px;margin:10px 0;font-family:arial;}
+.form-tit_l{background:url('https://www.mapsofindia.com/railway-timetable/train/images/titl-bg.jpg') repeat-x top left;}
+.form-tit2{margin-left:21px;float:left;width:295px;}
+.trn-srch{float:left;width:585px;background:#F3F3F3;border:1px solid #EEE;box-shadow:2px 2px 2px #ACACAC;height:180px;padding:10px;}
+.form-tit_l{background:url('https://www.mapsofindia.com/railway-timetable/train/images/titl-bg.jpg') repeat-x top left;color:#FFF;font-size:18px;line-height:30px;width:290px;float:left;}
+.form-tit_l span{float:left;}
+.train-form_t{float:left;width:100%;}
+.frmtitl{border-bottom:1px dashed #acacac;float:left;width:97%;padding-left:7px;font-size:18px;color:#0782C6;font-weight:bold;}
+.train-schd_tm{float:left;width:98%;}
+.train-schd_tm .rows{float:left;width:154px;margin:7px 10px;}
+.train-schd_tm .rows label{float:left;width:100%;font-size:15px;}
+.train-schd_tm .rows input{float:left;width:125px;border-radius:7px;border:1px solid #626262;padding-left:7px;line-height:23px;height:27px;}
+.train-schd_tm .sub-mit{background:url('https://www.mapsofindia.com/railway-timetable/train/images/submit-btn.png') no-repeat top left;padding:5px 17px;border:none;float:left;margin-top:26px;margin-left:8px;height:25px;cursor:pointer;}
+.hd{margin-top:10px !important;position:relative;}
+table.hd_show img{width:20px;}
+.pin_top{width:90%;float:left;margin-left:10%;}
+.pin_fst_add{width:50%;float:left;}
+.pin_frm_strt{width:90%;float:left;}
+.move_hide{display:none;width:100%;font-weight:bold;margin:0 0 5px 5px;text-align:left;}
+.tablelink_dis{float:left;border-left:1px solid #E4E2E3;width:100%;margin-bottom:20px;}
+.tablelink_dis ul{margin:0;padding:0;list-style:none;border-right:1px solid #E4E2E3;}
+.tablelink_dis ul li{margin:0 0 0 0;line-height:25px;border-bottom:1px solid #E4E2E3;border-collapse:collapse;list-style:none;text-align:left;vertical-align:middle;padding-left:5px;padding-bottom:5px;}
+.tablelink_dis ul li a{font-family:arial;font-size:11px;font-weight:normal;color:#377190;text-decoration:underline;line-height:18px;}
+.intrl_links_hotels{font:11px arial;color:black;text-decoration:none;font-weight:bold;float:left;text-align:left;width:98%;margin:0px 0px 0px 15px;}
+.intrl_links_hotels ul{padding:0;}
+.intrl_links_hotels ul li{margin:0;padding:3px 0;text-align:left;display:inline-table;width:49%;}
+.intrl_links_hotels ul li a{font:12px arial;color:#2B2B2B;text-decoration:none;font-weight:normal;background:url(https://www.mapsofindia.com/widgets/travel/images/arrow.jpg) center left no-repeat;padding:0 0 0 10px;vertical-align:top;text-align:left;}
+#div-gpt-ad-1484830559003-0,#div-gpt-ad-1417419205614-0,#div-gpt-ad-1487228471768-0,#div-gpt-ad-1487228532596-0,#div-gpt-ad-1485592612110-0,#div-gpt-ad-1485587238770-0,#div-gpt-ad-1467191666529-0,.sh_bu,#div-gpt-ad-1418896175571-0,#div-gpt-ad-1480146427689-0,#div-gpt-ad-1486642129195-0,#div-gpt-ad-1481278479514-0,#div-gpt-ad-1490077701774-0{display:none}
+.p_party{margin:4px;height:10px}
+.p12{float:left;}
+.p_seat{margin:6px auto;height:20px;width:20px;text-align:center;border-radius:5px;padding-top:3px;}
+.p_color{height:24px;width:24px;margin:5px auto;}
+.p_d_t{width:250px;position:absolute;top:100px;right:10px;font-size:12px;font-weight:bold;background:#e1eaf9;}
+.table_blk ul{margin:0;padding:0;list-style:none;border-right:1px solid #E4E2E3;}
+.table_blk ul li{margin:0;line-height:25px;border-bottom:1px solid #E4E2E3;border-collapse:collapse;list-style:none;text-align:left;vertical-align:middle;padding-left:5px;padding-bottom:5px;}
+.table_blk ul li a{font-family:arial;font-size:11px;font-weight:400;color:#377190;text-decoration:underline;line-height:18px;}
+.table_blk a{font-family:arial;font-size:11px;font-weight:400;color:#377190;text-decoration:underline;line-height:18px;}
+.stncode{margin:0px 0px 15px 25px;width:95%;height:98px;float:left;padding:0px 0px 0px;position:relative;background:url('https://www.mapsofindia.com/railways/station-code/images/staion-code_03.png') no-repeat;}
+.stncode form{width:100%;float:left;}
+.stncode form label{height:37px;width:178px;font-size:16px;font-weight:bold;float:left;margin:31px 0px 0px 13px;background:url('https://www.mapsofindia.com/railways/station-code/images/staion-code_07.png') no-repeat;padding:9px 0px 0px 25px;}
+.stncode form input#code{float:left;border:1px solid #c2c2c2;color:#554141;margin:30px 0px 0px -1px;font-weight:bold;padding:0px 0.5%;background:url('https://www.mapsofindia.com/railways/station-code/images/staion-code_08.png') no-repeat;height:37px;width:293px;}
+.stncode form input#submit{float:left;width:10%;height:22px;border:1px solid #c2c2c2;color:#f2f2f2;background:#828282;font-weight:bold;text-align:center;cursor:pointer;font-size:15px;}
+.stncode #ajax{width:100%;float:left;padding:0px;position:relative;}
+.stncode #ajax select{width:45.4%;height:25px;float:left;margin-left:20.1%;}
+#stationname_rail{margin:0px 0px 0px 75px;position:absolute;top:0px;background:#fff;list-style-type:none;line-height:21px;text-align:left;left:24%;border:1px solid #e5e5e5;width:281px;padding:2px 0px;max-height:160px;overflow-y:scroll;z-index:9;}
+#stationname_rail li{padding:2px 10px;}
+#stationname_rail li:hover{background:#e5e5e5;cursor:pointer;}
+.button-go{width:44px;height:37px;float:left;margin:31px 0px 0px -8px;}
+.history_thumb1{width:170px;height:auto;float:left;margin:10px 15px 1px 15px;text-align:center;}
+.history_thumb_heading1{width:156px;height:45px;float:left;margin:1px 8px 0px 5px;color:#574b31;font-family:arial;text-align:center;font-weight:bold;}
+.thumbs-section-box1{width:100%;float:left;margin-bottom:20px;}
+.tourism_blk{padding:5px;width:580px;}
+.a4_map{width:1000px;height:900px;overflow-y:auto;overflow-x:auto;border:1px solid black;}
+.looking-for_highways{color:#C10516;line-height:32px;font-size:26px;font-weight:700;float:left;margin:10px 0 0 100px;text-align:left;border:0 solid red;margin-top:37px;}
+.new_table{border:1px solid #d0d0d0;width:100%;color:#203f53;font-weight:800;font-size:12px;}
+.new_table th{background:#28485d;border-bottom:1px solid #d0d0d0;height:25px;color:#ffffff;}
+.new_table h2{color:#fff !important;}
+.new_table td{border-bottom:1px solid #d0d0d0;}
+.new_table .grey{background:#efefef;}
+.independence_linking{width:600px;margin:0 auto;}
+.tbl_big{height:500px;overflow-y:scroll;overflow-x:hidden;margin-bottom:10px;}
+div#div-clmb-ctn-215726-1 {display: none !important;}
+.TabbedPanelsContentGroup img{width:218px;}
+.mobadshow{display:none;}
+
+/*thumbnail slider css*/
+.wrap {float: left;width: 100%;position: relative;margin: 0 0 10px 0;}
+.imag-list figure {float: left;margin: 5px 0 5px 5px;width: 132px;padding: 5px;height: 135px;}
+.imag-list {float: left;position: absolute;padding-left: 5px;}
+.imggallery {float: left;width: 100%;overflow: hidden;height: 175px;position: relative;}
+.imag-list figure img {float: left;width: 125px;height: 125px;}
+.imag-list figure span {float: left;width: 100%;text-align: center;font-size: 12px;margin-top: 2px;}
+.previ, .nexti {float: left;margin-top: 25px;cursor: pointer;}
+.wrap .previ {background: url('https://www.mapsofindia.com/images1/slider-arrow-left.jpg') no-repeat 0px 0px;width: 32px;height: 32px;position: absolute;left: 0px;z-index: 99;top: 35px;left: 0;}
+.wrap .nexti {background: url('https://www.mapsofindia.com/images1/slider-arrow-right.jpg') no-repeat 0px 0px;width: 32px;height: 32px;position: absolute;top: 35px;right: -13px;z-index: 99;}
+/*thumbnail slider css*/
+/* canvas map css*/
+.canvas-relative{position:relative;width: 800px;}
+.legend {list-style: none;margin: 0;padding: 0;position: absolute;bottom: 15px;right: 0;}
+.legend li {margin-right: 10px;margin-left: 10px;text-align: left;}
+.legend span { border: 1px solid #ccc; display: inline-block; width: 12px; height: 12px; margin: 2px;}
+/* your colors */
+.legend .hindi { background-color: #009900; }
+.legend .bengali { background-color: #3c8069; }
+.legend .assamese { background-color: #0099FF; }
+.legend .kashmiri { background-color: #d35050; }
+.legend .telugu { background-color: #cc3366; }
+.legend .kannada { background-color: #993399; }
+.legend .tamil { background-color: #8a6800; }
+.legend .malayalam { background-color: #cc99cc; }
+.legend .marathi { background-color: #4a4a95; }
+.legend .manipuri { background-color: #cc6666; }
+.legend .gujarati { background-color: #ff4304; }
+.legend .punjabi { background-color: #800000; }
+.legend .odia { background-color: #0606ff; }
+.legend .nepali { background-color: #5f5f8d; }
+/* canvas map css*/
+.table_hide{width:100% !important;overflow:auto;}
+
+/*****Start buying map strip********/
+.map-selling-box{margin-top:7px;margin-bottom:10px;font-family:arial;line-height: 22px;text-align:left}
+.map-selling-box a,.map-selling-box a:visited,.map-selling-box a:focus{text-decoration:none;font-family:arial;font-weight:normal;font-size: 14px;}
+.full-width{width:100%;float:left;display: -webkit-flex;display: flex;}
+.map-selling-box b{display:block}
+.map-dics{background-color:#810C52;color:#fff;width:calc(50% - 30px);width:-webkit-calc(50% - 30px);width:-moz-calc(50% - 30px);width:-ms-calc(50% - 30px);float:left;padding:15px;}
+.map-dics a{color:#fff}
+.txt-img-wd{width:100%;max-width:450px;}
+.btn_pills{float:left;}
+.btn_pills a{float:left;text-shadow:1px 1px 10px #b42d1a;}
+.digi-buy:hover{content:url("https://www.mapsofindia.com/stylenew-2016/images/buy-digi-hover.jpg");}
+.amaz-buy:hover{content:url("https://www.mapsofindia.com/stylenew-2016/images/buy-amaz-hover.jpg");}
+.store-buy:hover{content:url("https://www.mapsofindia.com/stylenew-2016/images/buy-strore-hover.jpg");}
+.sept{font-weight:700;float:left;font-size:19px;padding: 4px 6px;}
+.pink_pills{margin-top:10px}
+.buying-option-wrp{width: 50%;float:left;padding: 0;margin-left: 8px;background-color:#FFE721;position: relative;}
+.buying-option{background-color:#FFE721;padding:15px;float:left;width:-webkit-calc(100% - 30px);width:-moz-calc(100% - 30px);width:-ms-calc(100% - 30px);}
+.buying-option a{color:#000;}
+.buying-option b{font-size:16px}
+.shop-now-btn{float:right;color: #000;margin: 9px 3px 0 0;}
+.shop-now-btn a{background: #FED100;font-weight: bold;font-size: 14px;padding: 7px;border-radius: 5px;}
+.mtext{margin-bottom: 8px;display: block;}
+.btn-con{margin-top: 10px;width:calc(100% - 15px);width:-webkit-calc(100% - 15px);width:-moz-calc(100% - 15px);width:-ms-calc(100% - 15px);}
+.single_box_ct {width: 420px;margin: 0 auto;float: none;}
+.wrp_single{width:100%;}
+.table-scroll{width: 100%;float: left;height: 600px;overflow: scroll;}
+.big-map-scroll{width:800px;overflow-x:scroll;}
+table.nw_table td b {width: 125px;display: block;text-align: center;}
+.nw_table{width:100%;}
+@media screen and (max-width:768px){
+td.twitimg img {width: 110px;}
+.intnl_heading a{width:auto;}
+.addthis_toolbox {position: static;width: auto;height: 32px;}
+.grey_bg1,.content-panel1{border:0;background: #fff;}
+.map-selling-box{display:block}
+.buying-option-wrp,.big-map-scroll{width:100%;float:left;padding:0;margin-left: 0;}
+.buying-option{padding:15px;}
+.map-dics{width:calc(100% - 30px);width:-webkit-calc(100% - 30px);width:-moz-calc(100% - 30px);width:-ms-calc(100% - 30px);}
+.btn-con{position:static;}
+.single_box_ct{width:100%;float:left;}
+table.nw_table td b {width: auto;}
+}
+@media screen and (max-width:500px){
+.btn_pills{width:100%}
+.btn-con{position: static;display: block;}
+}
+/*****End buying map strip********/
+
+
+@media screen and (max-width:768px){.mobadshow{display:table-row;}
+.left_links ul li:nth-child(odd) {background: none;}
+#div-gpt-ad-1486642129195-0{overflow:hidden;}
+/*thumbnail slider css*/
+.imggallery {overflow: scroll ;overflow-y: hidden ;}
+.nexti,.previ,.cust-map-stip,.buy_custom_map_moi{display:none;}
+.content-panel1 .map-print img,.content-panel1 .map-send img{width:39px}
+/*thumbnail slider css*/
+.flagimg{max-width:170px;}
+div#div-clmb-ctn-215726-1 {display: block !important;}
+div#div-clmb-ctn-215727-1,.netgain-bot,.table_left_corner,.table_right_corner {display: none !important;}
+#buy_now_str{width: 100px;height: 25px;}
+table.mytable.buynowform {width: 84%;}
+#eve_img{width:100% !important;margin:0 !important;}
+.searchrest{height: 50px;width: 93%;}
+input#city {width: 90%;margin-left: 10px;}
+.eve_fin_select .destination-city {width: 40%;}
+.eve_fin_submit img {width: 130px !important;}
+.rigbox .box{width: 92%;height:auto;}
+.right, .search20{height:auto;}
+.right .submit_lat{padding:0;width: 100%;text-align: center;}
+.submit_lat img{width:81px !important;height:41px;}
+.search20{width: 93%;}
+.search20 select {width:100%;margin:15px 0 0 0px;}
+.village_widget {width: 100%;}.bg select{width: 90%;}
+.text h4, .text h3{font-size:14px;}
+.independence_linking{width:100%;}
+.new_table{display:block;overflow:scroll;}
+.seller,.canvas-relative,#canvas{width:100% !important;height:auto !important;}
+.seller span:first-child{padding:4%;width:90%;text-align:center;}
+.seller span:nth-child(2){padding:5%;margin-left:0;width:88%;text-align:center;}
+.product_info_top .prod_img img{height:231px;width:193px;}
+.product_info_bot .prod_img img{height:135px;width:180px;}
+.product_info{margin-left:15% !important;}
+.del_padd{padding:13px 0 5px 0;}
+.magnify_link{width:35px !important;}
+.table_to_block .table_block{display:block;width:100%;}
+.ind_thumb{min-height:185px;}
+.ind_thumb img{max-height:147px;max-width:125px;}
+table.nat_flag tr td{width:33%;border:1px solid #fff;}
+table.nat_flag{width:100%;}
+table.nat_flag tr td img{max-width:100px;}
+.two_thumbs{width:100%;}
+.two_thumbs tr td{width:100%;border:1px solid #fff;}
+.two_thumbs img{max-width:125px;}
+.height_auto{height:auto !important;min-height:180px;}
+.pancontainer{width:700px !important;height:600px !important;}
+.pancontainer img{width:700px !important;height:600px !important;}
+.belowlink{width:94% !important;height:auto !important;padding:3%!important;}
+.slider_bg{width:100%;height:500px;}
+.wrapper{width:100%!important;height:380px!important;}
+.wrapper .image img{width:100%;position:absolute;left:0;height:100%;}
+.powerSlide .wrapper p{width:100% !important;}
+.powerSlide .nav{width:98% !important;padding:1%;}
+a.prev img, a.next img{width:14px;}
+.down-image img{width:200px !important;margin-top:20px;}
+#gallery{width:100% !important;margin:0 !important;}
+.sliderwrapper{width:100% !important;}
+div#gallery_l{width:100%;height:auto !important;}
+.sliderwrapper .contentdiv{width:100% !important;}
+.pagination{width:100%!important;}
+#story_page_style2 div{width:100% !important;}
+#image1{width:100%}
+.intnl_contr_link_block1{width:99%;}
+.main_inter1{width:240px;float:right;}
+.thumbs_td_res tr td{width:25%;border:1px solid #fff;word-break:break-word;}
+.thumbs_td_res tr td b{word-break:break-word;}
+.thumbs_td_res20 tr td{width:20%;border:1px solid #fff;}
+.thumbs_td_res20 tr td b{word-break:break-word;}
+.looking-for_highways{text-align:right;margin:10px 0 0 0px;}
+.left_ban_ind{margin:10px 0 5px 40px !important;width:180px !important;}
+.image embed{width:100%;height:100%;}
+#google_map{width:100%;}
+table.malls table{margin:0 !important;width:100%}
+#newmain1,#newmain1_left,.tablemain,.tablemainleft ul,#newmain1_right,.hespa{width:100%;margin:0;}
+.nvright{float:left;margin-left:10px;}
+#related{margin:12px 0 0 10px;}
+div#chart_div_2013,div#chart_div_2015,div#chart_div_2016,div#chart_div_2011,div#chart_div_2012,div#chart_div_2017{width:100%;}
+.gray-tab h3{font-size: 13px;}
+.postdate img{width:16px !important;}
+div#myDiv img{width:10px !important;}
+div#myDiv1 img{width:10px !important;}
+.a4_map{width:99%;height:auto;}
+.a4_map img{width:100%;height:auto;}
+.free_map img{width:100%;}
+.metro_fare1,.metro_fare{width:100% !important;background-size:100% 100% !important;}
+.main_big_map{width:100% !important;height:100%!important;}
+table.main_big_map img{width:100%;height:auto;}
+.main_big_head{width:100%;}
+#frame_sat{width:100%;height:500px;}
+div#fb-root iframe{width:60px;}
+.stncode{background:#996d49;margin:1%;width:98%;height:auto;}
+.stncode form label{width:91%;font-size:16px;margin:5px 0 5px 0;padding:18px 0px 0px 25px;background:url('https://www.mapsofindia.com/railways/station-code/images/staion_code_but.png') no-repeat;background-position:center}
+.stncode form input#code{background:#fff;margin:0% 10% 0 10%;width:80%;}
+.button-go{width:100%;margin:20px 0px 0px 0px;}
+.button-go button{background:url('https://www.mapsofindia.com/railways/station-code/images/staion_code_mob.png') no-repeat !important;}
+.tabl_hide{height:400px;overflow-y:scroll;}
+#stationname{margin:0px;top:-65px;left:0;}
+.text_in{width:98%;padding:1%;}
+.text_area {width: 98%;padding: 1%;border: 1px solid #666;}
+
+.battle{width:100%;}
+.battle ul{width:22%;float:left;margin:1%;}
+.heroic{min-height:120px;width:100%;height:auto;}
+.heroic_img,.heroic_img3{left:0px;right:0;width:20%;height:auto;}
+.heroic_img img, .heroic_img3 img{width:100%;max-width:100px;}
+.heroic_content,.heroic_content4,.heroic_content3,.heroic_content6,.heroic_content1{width:77%;height:auto;float:left;margin-left:0;margin-top:14px;padding:2% 2% 2% 22%;}
+.heroic_content5{width:92%;height:auto;margin-left:0;padding:4%;}
+.history_thumb{width:150px;}
+.history_thumb_heading{width:150px;height:auto;}
+.history_thumb_heading1{width:100%;;height:auto;}
+.img-style{width:20%;}
+.text{margin:0 5px 0 2px;width:100%;float: left;}
+#div-gpt-ad-1491641632732-0,#div-gpt-ad-1484830559003-0,#div-gpt-ad-1490077701774-0,#div-gpt-ad-1417419205614-0,#div-gpt-ad-1487228471768-0,#div-gpt-ad-1487228532596-0,#div-gpt-ad-1418896175571-0,#div-gpt-ad-1485592612110-0,#div-gpt-ad-1485587238770-0,#div-gpt-ad-1467191666529-0,#div-gpt-ad-1480146427689-0,#div-gpt-ad-1486642129195-0,#div-gpt-ad-1481278479514-0{display:block;width:100% !important;float:left;text-align:center;margin:1%;background:url("https://www.mapsofindia.com/advertisement1.png") top left no-repeat;padding:10px 0 5px;}
+.share{float:left;background:none !important;border-top:none !important;margin:0 3px !important;padding:0 !important;}
+.sha_ic{margin:5px auto;width:265px;height:20px;text-align:center;}
+.shtxt{font-size:15px;color:#000;}
+.sh_bu{float:left;width:100%;margin:5px 0;display:block;}
+.pin_fst_add,.traveblock,.bottom_two_ads,#ltsl,.hdr-offer-popup{display:none;}
+.pin_frm_strt{width:100%;}
+.pin_top{width:100%;float:left;margin-left:0;}
+.pc_left_map{width:100%;float:left;}
+.pc_left_map .gray-tab{width:99%;float:left;}
+.main, .header_container, .header_container, .tab_nav, .google_search, .navigation, #content-main, .content-panel1, .content-panel, .content-panel2, .grey_bg1, .intnl_contr_link_block, .intnl_heading, .intrl_links, .image,.main1,#div-gpt-ad-1407309518126-0,.main3,.main2{width:99%!important;margin:0 auto!important;display:block;}
+.tab_nav, .google_search, .below_h1_new_add, .ad_div, .ads_div, #right-panel, #slide, #blockads, #div-gpt-ad-1386843825116-0,#div-gpt-ad-1403697533440-0,#div-gpt-ad-1385033790590-0,#div-gpt-ad-1409569234621-1,.tab_links1,#div-gpt-ad-1385033790590-4,#div-gpt-ad-1537769144780-0,#div-gpt-ad-1378116060310-0,.tab_links,.bottom-menu-bg,#div-gpt-ad-1385033790590-2,#div-gpt-ad-1385033790590-6,#div-gpt-ad-1385033790590-7,#div-gpt-ad-1385033790590-15,#div-gpt-ad-1385033790590-3,#div-gpt-ad-1385033790590-8,#div-gpt-ad-1385033790590-9,#div-gpt-ad-1385033790590-10,#div-gpt-ad-1396860480061-0,#div-gpt-ad-1536815261965-0,#div-gpt-ad-1385033790590-1,#div-gpt-ad-1412659420338-0,#div-gpt-ad-1412659420338-1,#div-gpt-ad-1536815261965-0,#tracker-application,#div-gpt-ad-1378116060310-3,.mapstrip2,.live-post, #disqus_thread,#info, .rightadd,.searchtwit,.spar,.country-map,.slider-top1,#div-gpt-ad-1385033790590-16,#div-gpt-ad-1466600558513-0,#div-gpt-ad-1466684891884-0,#div-gpt-ad-1466685557335-0,#div-gpt-ad-1466686230165-0,#div-gpt-ad-1472891364634-0{display:none!important;}
+.header_container{height:auto!important;margin:0 !important;background:none!important;}
+.menubutton{width:48px;height:36px;position:absolute;right:0;top:25px;background:url(nav-btn.png) top right no-repeat;}
+#left-panel, .fb-like-box, .nomb, .houseads, .foot, .lfads, .distabl,.store_footer{display:none;}
+#left-panel, .mobmenu{float:left;margin:0;padding:0;width:250px;background:#065D96;position:absolute;left:10px;top:169px;z-index:2;border:solid 2px #000000;}
+#left-panel{height:300px;overflow-y:auto;background:#eaeaea;z-index:5022;width:270px;overflow-x:hidden;top:98px;left:5px;}
+.tablelink{max-height:300px;overflow-y:auto;}
+.mobmenu ul{margin:0;padding:0;list-style-type:none;width:93%;}
+.mobmenu ul li{margin:0;padding:8px;color:#fff;border-bottom:1px solid #fff;text-align:left;font-size:12px;font-weight:bold;}
+.mobmenu ul li a:link, .mobmenu ul li a:visited{color:#fff;text-decoration:none;}
+.mobileads{position:fixed;bottom:0;margin:0 auto;width:100%;text-align:center;display:block;background:gray;z-index:5022;left:0;height:auto;}
+.hads{margin:5px auto!important;text-align:center;width:100%;height:auto;display:block;float:left;background:url("https://www.mapsofindia.com/advertisement1.png") top left no-repeat;padding:10px 0 0;}
+.leftmain{width:98%;}
+.slidebtn{display:block;float:left;}
+.search_container3{margin-top:2px;width:95%;}
+.srch input{margin-top:2px;}
+.flht{float:none;margin:0 auto 10px;}
+.mmt, #___plusone_0, .tab_links{display:none!important;}
+.botads{margin:0 auto!important;width:100%;text-align:center;display:block;}
+#seaengine,.advertise_for_mob{display:block;}
+.addthis_wrpper{display: block;margin: 5px 0;width: 100%;float: left;}
+.stdhead h1{text-align:center;font-size:16px;}
+.fotxt{color:#717171;text-align:center;font-size:12px;display:block;}
+.fotxt a{color:#717171!important;text-decoration:none;}
+.bottom-links{padding-bottom:60px !important;}
+.content-panel2{margin-top:10px!important;}
+.logo,.logo1{width:85% !important;float:left;background:url(https://www.mapsofindia.com/images2009/mapsofindia-logo.png) no-repeat;margin:15px 2px 0 4px;background-position:left;}
+.text img, .directions{width:100%;}
+.tab_nav{display:block !important;}
+.search_container{display:none !important;}
+.search_container1{display:block !important;}
+.top_nav_menu{display:block;position:absolute;right:0;top:20px;}
+.top-men-bg{display:none;position:absolute;width:288px;background:#0066b7;right:10px;z-index:9999999;}
+.top-men-bg ul{list-style:none;margin:0px auto;padding:0;}
+.top-men-bg ul li{color:white !important;font-size:16px !important;font-weight:800 !important;padding:5px;background:#1886c6;margin:10px;text-align:left;}
+.top-men-bg ul li a{color:#fff;text-decoration:none;}
+.top_nav_menu img{width:40px;}
+.mobhide{display:none !important;}
+.pincode-utility,.heading-pincode{width:100%;}
+.heading-pincode2{width:100%;height:auto;}
+.pincode-state{width:90%;}
+.pincode-district{width:62%;}
+.pincode-city{width:62%;}
+.pincode-last{padding:0 0 0 10px;width:94%;margin:0;}
+.pincode-text{width:100%;padding-left:5px;background:none;}
+.pincode-text #txtPin{width:65%;}
+h1{width:100%;text-align:center;}
+.pincode-state select{opacity:1;filter:alpha(opacity=10);width:100%;}
+.pincode-district select{opacity:1;filter:alpha(opacity=10);width:100%;}
+.pincode-city select{opacity:1;filter:alpha(opacity=10);width:100%;}
+.form-start{width:100%;}
+.image table{float:none;margin:0 auto;width:100%;}
+.content-panel1 img{width:100%;height: auto;}
+.intnl_contr_link_block{float:left;margin:0 0 5px 0 !important}
+.uti-sec iframe{width:100% !important;height:auto !important;}
+.submitelction{width:100%;margin:23px 0px 0px 0px;}
+.form-start_ut,.heading,.center, .utility{width:100%!important;height:auto!important;float:left!important;margin-bottom:5px;}
+.dotted{display:none;}
+.show_one{width:70%;float:left;height:auto;padding:0 0 0 220px;}
+.show_one2{width:75%;float:left;height:auto;padding:0 0 0 180px;}
+.submitelction{width:99% !important;float:left;margin:23px 0px 5px 0;}
+#assembly{width:100%;float:left;padding:0;}
+.utility{margin-top:5px;}
+.scrl_div{height:500px;overflow-y:scroll;float:left;margin-bottom:10px;width:100%}
+#map_canvas{width:100% !important;margin:0 !important;left:0 !important;}
+table.srch td{width:100%;text-align:center;margin-left:0px !important;}
+#Source1 select{width:99%;height:30px;}
+#Destination select{width:99%;height:30px;}
+.tabl_res{width:100%;overflow-x:scroll;}
+.bus_lnk{margin-left:0px !important;width:32.7% !important;display:block !important;}
+.serch-cont table{margin:0 !important;width:100%;}
+.res_table{width:100%;overflow-x:scroll;}
+svg{width:300px;}
+#columnchart_values,#columnchart_values2,#columnchart_values_arunachal,#columnchart_values2_arunachal,#columnchart_values_odisa,#columnchart_values2_odisa,#columnchart_values_sikkim,#columnchart_values2_sikkim{width:300px !important;float:left !important;text-align:left;}
+.intrl_links{width:33% !important;float:left;}
+.content_headingtop{width:90%;text-align:left;display:block;font-size:14px;margin:10px 0 0 0 !important;}
+.tableizer-table,.map-table td{width:100% !important;}
+.all_table{width:100%;margin-bottom:10px;}
+.all_table table{width:500px !important;}
+#columnchart_values >:first-child,#columnchart_values2 >:first-child,#columnchart_values_arunachal >:first-child,#columnchart_values2_arunachal >:first-child,#columnchart_values_odisa >:first-child,#columnchart_values2_odisa >:first-child,#columnchart_values_sikkim >:first-child,#columnchart_values2_sikkim >:first-child{width:300px !important;float:left !important;text-align:left;}
+.top_links .intrl_links{width:50% !important;text-align:center;}
+.selected-text{display:none;}
+.constituency-type,.district-type,.city-type{width:70%;background:none;}
+.text0,.text1,.text3{width:25%;text-align:center;}
+.constituency-type select,.district-type select,.city-type select{opacity:1 !important;filter:alpha(opacity=10) !important;width:100%}
+.mob_graph{width:100%;float:left;overflow-x:scroll;overflow-y:hidden;}
+.table_hide{width:100% !important;overflow-x:scroll;height:auto;overflow-y:hidden;}
+.right_blue_curve,.left_blue_curve{background:none;}
+.left_links_container{background:#00A8F5;}
+.left_links a:link{color:#fff;font-size:12px !important;}
+.left_links a:visited{color:#fff;font-size:12px !important;}
+.nav_head a:link{font-size:14px;}
+.more a:link{color:#fff;}
+.p_d_t{display:none;}
+.navigation{display:block !important;}
+#charts,#chart_div,#charts >:first-child,#chart_div >:first-child,#charts_ch1 >:first-child,#charts_ch >:first-child,#charts_dl >:first-child,#charts_dl1 >:first-child,#charts_goa1 >:first-child,#charts_goa >:first-child,#charts_gj1 >:first-child,#charts_gj >:first-child,#charts_hp >:first-child,#charts_hp1 >:first-child,#charts_kt >:first-child,#charts_kt1 >:first-child,#charts_mp1 >:first-child,#charts_mp >:first-child,#charts_manipur >:first-child,#charts_manipur1 >:first-child,#charts_miz1 >:first-child,#charts_miz >:first-child,#charts_pb >:first-child,#charts_pb1 >:first-child,#charts_rj1 >:first-child,#charts_rj >:first-child,#charts_utt1 >:first-child,#charts_utt >:first-child{width:300px !important;overflow:hidden;height:300px !important;}
+.left_links ul li{padding:0 0 0 15px!important;width:100%;}
+.mobshow{display:block !important;}
+.googlemap{float:left;width:100%;height:300px;overflow-x:scroll;padding:0 0 10px;}
+.googlemap::-webkit-scrollbar{height:30px;width:5px;}
+.googlemap::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0.3);border:1px solid black;background:rgb(41,41,41);border-radius:10px;}
+.googlemap::-webkit-scrollbar-thumb{border-radius:10px;height:30px;width:8px;border:1px solid black;background:rgb(111,111,111);-webkit-box-shadow:0 1px 1px rgb(0,0,0);background:-webkit-linear-gradient(rgb(200,200,200), rgb(150,150,150));}
+.googlemap::-webkit-scrollbar-track-piece{height:30px;}
+.sctbl{width:100%;overflow-x:auto;}
+.looking-for{font-size:15px;}
+.get-routes{font-size:13px;margin:5px 0 10px 100px;}
+.search-table td{float:left;width:100%;}
+.search-table{margin-left:80px!important;width:70%!important;}
+.yellow-middle-bg a, .yellow-middle-bg{font-size:12px;}
+.find-button{margin:-60px 0 0 130px;float:right;}
+.form-titl{font-size:17px;}
+.train-schd .rows label{width:115px;}
+.train-form, .railways{float:left;width:100%;}
+.train-schd{margin:5px 0 0 106px;width:200px;}
+.train-schd .rows{margin-bottom:2px;width:190px;}
+.train-schd .rows input{clear:both;}
+.train-schd .sub-mit{margin-left:30px;}
+#mapstore{width:100%;overflow-x:auto;margin:10px 0!important;}
+#display-main{width:480px!important;}
+#heading{padding:0 8px!important;position:absolute!important;font-size:12px!important;}
+#display-main tr{position:relative;}
+.yltbl{margin-left:0;}
+.scrltab{height:400px;overflow-y:scroll;}
+.scrstates{width:97%;background-color:#0066b7;position:absolute;top:174px;left:0;display:none;border-radius:10px;height:300px;overflow-y:scroll;}
+.where_heading{width:100%;text-align:center;font-size:18px;color:#fff;font-weight:800;}
+.scrstates ul{padding:5px;margin:0;list-style:none;text-align:left;}
+.scrstates ul li a{color:#fff;text-decoration:none;font-size:15px;font-weight:800;}
+.extrtable{overflow-x:scroll;}
+.directions td{width:50%;}
+#directions, .intrl_links ul li{width:100%;}
+#adp-placemark td{width:auto;}
+img.adp-marker{width:20px!important;}
+.directions th:nth-child(2){float:left;margin-left:80px;}
+#viewport{width:100%;}
+#viewport img{width:100%;height:auto;}
+#aleosoftimage{float:left;}
+#_table_wrap{width:800px;}
+.upper-uti2{margin:10px auto;width:100%;padding:0;}
+.gray-tab-seat-info h2{text-align:center;display:block;}
+.st-result-election{width:100%;}
+.winner-info{width:70%;font-size:12px;}
+.upper-uti2{margin:10px auto;width:100%;padding:0;}
+.seat-info-election h3{display:block;text-align:center;}
+.result-uti-heading-election{width:100%;}
+.result-election-heading1,.result-election-heading4{width:18%;}
+.result-election-heading2,.result-election-heading5{width:25%;}
+.st-result-election-detial{width:100%;height:50px;}
+.winner-party-symbol{width:25px;display:inline-block;float:left;padding:0;margin:0;text-align:center;}
+.st-result-election-detial2{width:100%;height:45px;float:left;}
+.winner-party-symbol2{width:20%;display:inline-block;padding:0;margin:0;}
+.winner-party-symbol2 img{width:30px;}
+div#_head_wrap .tableizer-table:first-child{table-layout:initial !important;}
+div#chart_div_2014 > div > svg ,div#chart_div_2009 > div > svg,div#chart_div_mh > div > svg{width:100%;}
+.railways_tm{height:auto;width:100%;}
+.form-tit_l,.trn-srch{width:100%;}
+.form-tit2{display:none;}
+.form-tit_l{width:95%;}
+.form-tit_l img{width:20px;}
+.trn-srch{width:94%;height:auto;}
+.time_tabl{margin:0 !important;}
+.train-schd_tm .rows{float:left;width:96% !important;margin:10px 0;}
+.train-schd_tm .rows input{float:left;width:100%;}
+.go_btn{width:100%;float:left;text-align:center;}
+.go_btn input{float:none !important;}
+.train-form_t{width:100% !important;}
+.train-schd_tm .sub-mit{margin-top:0 !important;margin-bottom:10px;}
+.fgt_links ul{width:50%;}
+.fgt_links ul li{height:40px;}
+.ifsc-utility{width:100%;float:left;}
+.ifsc{float:left;width:100%;}
+.ifsc-hed-left{padding:0 2px;float:left;width:98%;}
+.ifsc-hed-right{padding:0 2px;float:left;width:100%;}
+.ifsc-hed{padding:5px 2px;float:left;width:99%;}
+.ttl-ifsc{padding:0 2px;float:left;height:53px;margin:-10px 10px 0;padding-left:62px;line-height:55px;font-size:21px;color:#FFF;width:75%;z-index:41;position:relative;}
+.ifsc-search{width:96%;height:260px;margin-top:-9px;padding:2%;}
+.ifsc-search .rows{float:left;width:100%;}
+.reg_select{width:100%;}
+.ifsc-search select{float:left;width:100%;}
+.ifsc_submit{width:100%;float:left;text-align:center;}
+.ifsc_submit input{float:none;right:0px;}
+.frm_bx{background:none;width:100%;}
+.frm_bx .rgt_col{float:right;width:100%;}
+.rgt_col .heading,.g_plus{display:none;}
+.looking-for-bg{background-size:100% 100%;}
+.search-table{margin-left:110px!important;}
+div#cse-search-results iframe{width:100%;overflow-y:scroll;}
+.flight{width:100%;background-size:100% 100%;}
+.heading-top,.flight-source{width:100%;}
+.airline ul{list-style:none;margin:0;padding:0;}
+.flight-source input{width:45% !important;}
+.intrl_links .tablelist{width:100%;}
+.more-hotels,.more-hotels .more-hotels-box .category-box, .more-hotels .more-hotels-box .category-box ul,.more-hotels .more-hotels-box .category-links{width:100%;}
+.more-hotels .more-hotels-box{width:98%;}
+.move_hide{display:block;}
+.driving_maps{width:100% !important;height:100% !important;}
+#src_table{width:99%;}
+#smiley{width:20%;}
+.wrong{width:100%;float:left;margin-top:30px;}
+#goog-wm ul{padding:0;}
+.ele_table{width:100% !important;}
+.live-graph2{width:100%;overflow-x:scroll;overflow-y:hidden;}
+#chart_div.ele_res_main{width:576px !important;margin-left:0 !important;}
+#chart_div.ele_res_main >:first-child{width:100% !important;overflow:visible !important;}
+#chart_div.ele_res_main svg{width:100%;}
+#div-gpt-ad-1407309518126-0{background:url("https://www.mapsofindia.com/advertisement1.png") top left no-repeat;padding:10px 0 0;float:left;}
+.mobileads{background:url("https://www.mapsofindia.com/advertisement-wht.png") top left no-repeat gray;padding:10px 0 0;float:left;}
+.box1{width:40%;padding:2%;margin:2%;height:250px;}
+.box1_head{width:100%;height:auto;}
+.box1 ul{width:100%;}
+.tabbing-linkdelhi ul li{margin-left:10px !important;}
+.slider-top,.gallery-shadow,#gallery-next,#gallery-prev{display:none;}
+.tourism_tab{width:100%;float:left;height:360px;}
+.TabbedPanels{margin:1%;width:98%;float:left;height:246px;}
+.TabbedPanelsContentGroup{height:245px;;width:100%;float:left;}
+.TabbedPanelsTabGroup{height:auto;width:93%;margin:248px 0 0 0;}
+.TabbedPanelsContentGroup img{width:100%;height:100%;max-width:218px;max-height:125px;}
+.TabbedPanelsContentVisible{width:97%;float:left;}
+.ContentVisibleimg{width:100%;float:left;height:auto;text-align:center;}
+.TabbedPanelsContentGroup ul{margin:0px;width:100%;float:left;padding:0;}
+.TabbedPanelsTab{width:15% !important;font-size:11px;height:75px;}
+.TabbedPanelsTabSelected{padding:20px 6px;background-size:100% 100%;height:60px;}
+li.TabbedPanelsTab.TabbedPanelsTabSelected img{max-width:88px;max-height:47px;}
+.thumb-sec-wrap{width:100%;overflow-x:scroll;float:left;}
+.thumb-section{padding:1%;height:auto;width:735px;margin:0 auto;float:left;}
+.img-section{height:200px;width:96%;padding:2%;text-align:center;}
+.thumb-img-bg .img-section img,.thumb-img-bg2 .img-section img{width:100%;max-width:200px;max-height:200px;}
+.thumb-img-bg .image-magnify,.thumb-img-bg2 .image-magnify{display:none;}
+.image-text{width:100%;float:left;height:auto;text-align:center;}.image-text p{float:none;}
+#myname{width:200px;}
+#colony{width:200px;}
+.ht_dl{width:96%;}
+.ht_dl .ht_dl_bx{width:95%;}
+.ht_dl_bx h2{width:260px;}
+.places_vid iframe{width:100% !important;}
+.content-panel3 img{width:100%;height: auto;}
+.tourism_blk{padding:5px;width:96% !important;}
+.tourism_blk .tour_thumb{height:200px;}
+.tourism_blk .tour_thumb img{width:100%;max-height:147px;max-width:125px;}
+.tour_thumb ul li{width:140px;}
+.image table div{width:100% !important;}
+.get-routes{margin:5px 0 0px 100px;width:70% !important;}
+.main_top_map{width:100% !important;overflow:visible !important;}
+select#dir{margin:5px 10px 5px 0px;}
+div#chart_div_2015 .highcharts-container svg,div#chart_div_2013 .highcharts-container svg, div#chart_div_2016 .highcharts-container svg, div#chart_div_2011 .highcharts-container svg,div#chart_div_2017 .highcharts-container svg,div#chart_div_2013 .highcharts-container svg,div#chart_div_2012 .highcharts-container svg{width:100%;}
+div#chart_div_2015 .highcharts-container,div#chart_div_2013 .highcharts-container, div#chart_div_2016 .highcharts-container, div#chart_div_2011 .highcharts-container, div#chart_div_2017 .highcharts-container, div#chart_div_2012 .highcharts-container, div#chart_div_2013 .highcharts-container{width:100% !important;}
+div#result2015, div#result2013{width:100% !important;float:left;max-width:100%;}
+div#result2015 .highcharts-container,div#result2013 .highcharts-container{width:100% !important;}
+div#result2015 .highcharts-container svg, div#result2013 .highcharts-container svg{width:100%;float:left;}
+.clean_ganga img{width:107px;}
+.clean_ganga_text{width:51%;float:left;}
+#dis_tab .get-routes, #dis_tab .looking-for{width:70% !important;}
+.dis ul li {height: auto !important;}
+#tamilnaduresult2011,#result2011,#assamresult2011,#keralresult2011,#pondicherryresult2011{float:left;}
+
+.top-menu1{width: 100%;position: absolute;top: 50px;background: #0A85B2;height: auto;display:none;right:0;z-index: 999999;}
+.top-menu1 ul li{width:100%;float:left;}
+.top-menu1 ul li a{width: 80%;float: left;}
+.top-menu1 ul li {width: 96% !important;position: relative;background: #24A7E0;margin: 5px 2%;}
+.top-menu1 li:hover li {float: left;font-size: 11px;}
+.top-menu1 li ul {width: 100%;float: left;background: #24A7E0;}
+span.aco-icon {width: 50px;height: 28px;position: absolute;right: 0;top: 0px;background: url("https://www.mapsofindia.com/images1/plus.png") center no-repeat;display: block;z-index: 999;}
+.top-menu1 li:hover a {background: #24A7E0;}
+.top-menu1 ul li:hover ul {display: none;background: none;position: static;}
+img#imgCaptcha {width: auto;height: auto;}
+}
+@media screen and (max-width:652px){.clean_ganga_sub1{font-size:17px;margin:15px 0px 0px 0px;}
+.clean_ganga_sub2{font-size:17px;margin:15px 0px 0px 0px;}
+.clean_ganga_sub11{font-size:15px;}
+.clean_ganga_sub22{font-size:23px;}
+.clean_ganga_com1{width:33%;margin-right:5px;}
+.clean_ganga_com2{margin-right:5px;}
+.history_thumb1{width:42%;height:200px;margin:10px 0 0 10px;}
+.bus_lnk{margin-left:0px !important;width:49% !important;}
+.mobileads{height:auto;}
+.pc_left_map .gray-tab{width:98%;float:left;}
+.table_head, .table_head a:link, .table_head a:visited, .table_head1{font-size:12px;}
+.highcharts-container{width:510px !important;text-align:center !important;}
+#result2009,#mhresult2009,#result2013{float:left !important;}
+.election-section{margin:10px 0 10px 0!important;}
+#chart_div_2009,#chart_div_2014,#chart_div_mh{width:100% !important;}
+div#chart_div_2009 .highcharts-container, div#chart_div_2014 .highcharts-container,div#chart_div_mh .highcharts-container{width:100% !important;overflow-x:scroll !important;height:405px !important;}
+.sta_cd{width:46% !important;}
+.battle ul{width:46%;float:left;margin:2%;}
+.history_thumb{width:42%;height:auto;float:left;margin:10px 10px 10px 10px;}
+.history_thumb_heading{width:100%;height:auto;}
+.pancontainer{width:500px !important;height:600px !important;}
+.pancontainer img{width:500px !important;height:600px !important;}
+#result2011{float:left;}
+.legend{display:none;}
+.hd_blk{font-size: 14px;}
+div#gujaratresult2017,div#gujaratresult2012,div#result2016,div#tamilnaduresult2016, div#assamresult2016, div#keralresult2016, div#pondicherryresult2016,#result2017,#result2012,#punjabresult2017,#punjabresult2012,#uttarakhandresult2017,#uttarakhandresult2012,#upresult2017,#upresult2012,#manipurresult2017,#manipurresult2012{width:100% !important;float:left;max-width:100% !important;}
+
+
+
+div#gujaratresult2017 .highcharts-container,div#gujaratresult2012 .highcharts-container,div#result2016 .highcharts-container,div#tamilnaduresult2016 .highcharts-container, div#assamresult2016 .highcharts-container, div#keralresult2016 .highcharts-container, div#pondicherryresult2016 .highcharts-container,#result2017 .highcharts-container,#result2012 .highcharts-container,#punjabresult2017 .highcharts-container,#punjabresult2012 .highcharts-container,#uttarakhandresult2017 .highcharts-container,#uttarakhandresult2012 .highcharts-container,#upresult2017 .highcharts-container,#upresult2012 .highcharts-container,#manipurresult2017 .highcharts-container,#manipurresult2012 .highcharts-container{width:100% !important;}
+
+div#gujaratresult2017 .highcharts-container svg,div#gujaratresult2012 .highcharts-container svg,#result2016 .highcharts-container svg,div#tamilnaduresult2016 .highcharts-container svg, div#assamresult2016 .highcharts-container svg, div#keralresult2016 .highcharts-container svg, div#pondicherryresult2016 .highcharts-container svg,#result2017 .highcharts-container svg,#result2012 .highcharts-container svg,#punjabresult2017 .highcharts-container svg,#punjabresult2012 .highcharts-container svg,#uttarakhandresult2017 .highcharts-container svg,#uttarakhandresult2012 .highcharts-container svg,#upresult2017 .highcharts-container svg,#upresult2012 .highcharts-container svg,#manipurresult2017 .highcharts-container svg,#manipurresult2012 .highcharts-container svg{width:100% !important;}
+
+
+
+div#result2011 .highcharts-container,div#tamilnaduresult2011 .highcharts-container ,div#assamresult2011 .highcharts-container,div#keralresult2011 .highcharts-container,div#pondicherryresult2011 .highcharts-container{width:100% !important;}
+div#result2011 .highcharts-container svg,div#tamilnaduresult2011 .highcharts-container svg ,div#assamresult2011 .highcharts-container svg,div#keralresult2011 .highcharts-container svg,div#pondicherryresult2011 .highcharts-container svg{width:100% !important;}
+#result2011,#tamilnaduresult2011,#assamresult2011,#keralresult2011,#pondicherryresult2011{width:100% !important;max-width:100% !important;}
+
+
+}
+@media screen and (max-width:568px){.sliderwrapper{height:398px !important;}
+.pagination a{padding:7px !important;}
+}
+@media screen and (max-width:560px){.show_one{width:76%;padding:0 0 0 130px;}
+.show_one2{width:82%;padding:0 0 0 90px;}
+#assembly{width:100%;float:left;}
+.intrl_links{width:33% !important;float:left;}
+.bus_lnk{margin-left:0px !important;width:49% !important;display:block !important;}
+#columnchart_values,#columnchart_values2,#columnchart_values_arunachal,#columnchart_values2_arunachal,#columnchart_values_odisa,#columnchart_values2_odisa,#columnchart_values_sikkim,#columnchart_values2_sikkim{width:300px !important;float:left !important;text-align:left;}
+.tableizer-table,.map-table td{width:100% !important;}
+.all_table{width:100%;margin-bottom:10px;}
+.all_table table{width:350px !important;}
+#columnchart_values >:first-child,#columnchart_values2 >:first-child,#columnchart_values_arunachal >:first-child,#columnchart_values2_arunachal >:first-child,#columnchart_values_odisa >:first-child,#columnchart_values2_odisa >:first-child,#columnchart_values_sikkim >:first-child,#columnchart_values2_sikkim >:first-child{width:300px !important;float:left !important;text-align:left;}
+.top_links .intrl_links{width:100% !important;text-align:center;}
+.chart_one{width:100%;}
+.pancontainer{width:500px !important;height:500px !important;}
+.pancontainer img{width:500px !important;height:500px !important;}
+}
+@media screen and (max-width:550px){.sliderwrapper{height:390px !important;}
+.pagination a{padding:7px !important;}
+}
+@media screen and (max-width:480px){.sliderwrapper{height:340px !important;}
+.pagination a{padding:7px !important;}
+.pancontainer{width:400px !important;height:500px !important;}
+.pancontainer img{width:400px !important;height:500px !important;}
+}
+@media screen and (max-width:450px){.tablelink ul{width:48%;}
+table.thumbs_table{width:100%;}
+table.thumbs_table tr{width:99%;}
+table.thumbs_table td{display:block;width:24.2%;float:left;word-break:break-word;}
+table.thumbs_table td img{max-width:125px;max-height:147px;}
+.major1{width:50%;}
+.major5{width:40%;}
+.major2{width:45%;}
+.major3{width:44%;}
+.nvleft,.tablemainleft{width:100%;}
+.nvlefttop{width:99%}
+.nvright{width:100%;margin-left:0;}
+#related{margin:12px 0 0 0px;}
+.intnl_contr_link_block1{width:99%;}
+.intnl_heading1{width:100%}
+.main_inter1{width:100%;}
+.content-panel{background:#414141;}
+}
+
+@media screen and (max-width:375px){.history_thumb1{height:148px;float:left;margin:10px 0 0 10px;}
+.pc_left_map .gray-tab{width:97%;float:left;}
+.looking-for{font-size:13px;}
+.find-button{margin:-55px 0 0 12%;}
+.form-titl{font-size:16px;}
+#heading a{font-size:10px;}
+.prod-display{margin-top:10px;}
+.srch #query-input{width:57%;}
+.search-table{margin-left:80px!important;width:70%!important;}
+.search-table td{float:left;width:100%;}
+.train-schd .rows{width:155px;}
+.train-schd{width:155px;}
+h1{width:100%;text-align:center;font-size:16px !important;}
+.submitelction{width:100%;margin:23px 0px 0px 0px;}
+.form-start_ut,.heading,.center, .utility{width:100%;height:auto;float:left;}
+.dotted{display:none;}
+.show_one{width:87%;;float:left;height:auto;padding:0 0 0 40px;}
+.show_one2{width:100%;float:left;height:auto;padding:0;}
+.submitelction{width:99% !important;float:left;margin:6px 0px 5px 0;}
+.bus_lnk{margin-left:0px !important;width:72% !important;padding:2px 0 0 93px !important;display:block !important;}
+.moi-responsive-top, .botads,div#div-gpt-ad-1423109487591-0{width:100%!important;overflow:hidden;}
+#columnchart_values,#columnchart_values2,#columnchart_values_arunachal,#columnchart_values2_arunachal,#columnchart_values_odisa,#columnchart_values2_odisa,#columnchart_values_sikkim,#columnchart_values2_sikkim{width:300px !important;float:left !important;text-align:left;}
+.tableizer-table,.map-table td{width:100% !important;}
+.intrl_links{width:100% !important;float:left;}
+.intrl_links ul{width:100%}
+.intrl_links ul li{width:50%;float:left;}
+.all_table{width:100%;margin-bottom:10px;}
+.all_table table{width:300px !important;}
+#columnchart_values >:first-child,#columnchart_values2 >:first-child,#columnchart_values_arunachal >:first-child,#columnchart_values2_arunachal >:first-child,#columnchart_values_odisa >:first-child,#columnchart_values2_odisa >:first-child,#columnchart_values_sikkim >:first-child,#columnchart_values2_sikkim >:first-child{width:300px !important;float:left !important;text-align:left;}
+.top_links .intrl_links{width:100% !important;text-align:center;}
+#assembly{width:100%;float:left;padding:0;}
+.table_left_corner,.table_right_corner{background-size:17px;}
+.table_hide{width:100% !important;overflow-x:scroll;height:auto;overflow-y:hidden;}
+.language_base,.language_base h2{font-size: 12px;background-color: #AC090A;display: block;height: auto;text-align: center;padding: 3px 0;border-radius: 5px 5px 0 0;-webkit-border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;}
+.lft_curve, .rgt_curve,.view-more{display:none;}
+.highcharts-container{width:300px !important;text-align:center !important;}
+.fgt_links ul{width:100%;}
+.fgt_links ul li{height:20px;}
+.intrl_links_hotels ul li{width:100%;}
+.pancontainer{width:340px !important;height:500px !important;}
+.pancontainer img{width:340px !important;height:500px !important;}
+}
+@media screen and (max-width:365px){.pagination a{padding:4px !important;}
+.sliderwrapper{height:240px!important;}
+.slider_bg{width:100%;height:430px;}
+.wrapper{width:100%!important;height:250px!important;}
+.pancontainer{width:340px !important;height:500px !important;}
+.pancontainer img{width:340px !important;height:500px !important;}
+}
+@media screen and (max-width:340px){.looking-for{font-size:12px;}
+.srch #query-input{width:57%;}
+.form-titl{font-size:15px;}
+.yellow-middle-bg a, .yellow-middle-bg{font-size:10px;}
+.image table{float:none;margin:0 auto;width:100%;}
+.search-table{margin-left:80px!important;width:70%!important;}
+.form-start_ut,.heading,.center, .utility{width:100%;height:auto;float:left;}
+.dotted{display:none;}
+.show_one{width:87%;;float:left;height:auto;padding:0 0 0 40px;}
+.show_one2{width:96%;float:left;height:auto;padding:0;}
+#assembly{width:100%;float:left;padding:0;}
+#columnchart_values,#columnchart_values2,#columnchart_values_arunachal,#columnchart_values2_arunachal,#columnchart_values_odisa,#columnchart_values2_odisa,#columnchart_values_sikkim,#columnchart_values2_sikkim{width:300px !important;float:left !important;text-align:left;}
+.tableizer-table,.map-table td{width:100% !important;}
+.all_table{width:100%;margin-bottom:10px;}
+.all_table table{width:300px !important;}
+#columnchart_values >:first-child,#columnchart_values2 >:first-child,#columnchart_values_arunachal >:first-child,#columnchart_values2_arunachal >:first-child,#columnchart_values_odisa >:first-child,#columnchart_values2_odisa >:first-child,#columnchart_values_sikkim >:first-child,#columnchart_values2_sikkim >:first-child{width:300px !important;float:left !important;text-align:left;}
+.pagination a{padding:2px !important;}
+.sliderwrapper{height:240px!important;}
+.pancontainer{width:300px !important;height:500px !important;}
+.pancontainer img{width:300px !important;height:500px !important;}
+}
+@media screen and (max-width:300px){#div-gpt-ad-1484830559003-0,#div-gpt-ad-1407309518126-0,#div-gpt-ad-1490077701774-0,#div-gpt-ad-1417419205614-0,#div-gpt-ad-1487228471768-0,#div-gpt-ad-1487228532596-0,#div-gpt-ad-1418896175571-0{width:280px !important;overflow:hidden;}
+.pincode-text #txtPin{width:60%;}
+div#livescore iframe{width:287px;}
+#related,.realtedtop,.relatedtopmiddle,.relatedlinks,.relatedlinks ul,#tweets,.tweethead,#livescore{width:100%;}
+.relatedtopleft,.relatedtopright{display:none;}
+.twittext{width:235px;}
+}
+.moi-mobile-anchor{width:300px;height:50px;}
+@media(min-width:500px){.moi-mobile-anchor{width:468px;height:60px;}
+}
+@media(min-width:800px){.moi-mobile-anchor{width:728px;height:90px;}
+}
+.moi-responsive-top{width:300px;height:50px;overflow:hidden;}
+@media(min-width:500px){.moi-responsive-top{width:468px;height:60px;}
+}
+@media(min-width:800px){.moi-responsive-top{width:728px;height:90px;}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {.ipadrem{display:none !important;}
+.ladad{display:block !important;padding: 10px 0;}}
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {.ladad{display:block !important;} }
+
+
+
+@media screen and (max-width:1024px){
+.quiz_rgt_add,#ltsl{display:none !important;}
+}
+
+@media(max-width:768px){
+
+}
+
+.customizedlist{
+	font-size: 13px;color: #2a2a86;padding: 18px; -webkit-column-count: 3; -moz-column-count: 3;column-count: 3;;list-style-type: none;
+}
+.blueline{
+	
+}
+.down-image img{width:30%;}
